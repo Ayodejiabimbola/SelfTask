@@ -20,3 +20,8 @@ int studentWeight = 165;
 studentAge = 20;
 bool isEnrolled = true;
 Console.WriteLine(studentName +" aged "+ studentAge +" weighs " +studentWeight +"kg is enrolled: "+ isEnrolled );
+
+// SECTION 3(CONSTANTS)
+const decimal pi = 3.142M;
+const int daysInAWeek = 7;
+Console.WriteLine("We have "+daysInAWeek+ " days in a week and the fixed value of pi in maths is " +pi);
