@@ -1,0 +1,14 @@
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\bin\Debug\net10.0\SelfTask.exe
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\bin\Debug\net10.0\SelfTask.deps.json
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\bin\Debug\net10.0\SelfTask.runtimeconfig.json
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\bin\Debug\net10.0\SelfTask.dll
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\bin\Debug\net10.0\SelfTask.pdb
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.AssemblyInfoInputs.cache
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.AssemblyInfo.cs
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.dll
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\refint\SelfTask.dll
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.pdb
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.genruntimeconfig.cache
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\ref\SelfTask.dll
