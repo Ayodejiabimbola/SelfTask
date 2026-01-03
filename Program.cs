@@ -25,3 +25,20 @@ Console.WriteLine(studentName +" aged "+ studentAge +" weighs " +studentWeight +
 const decimal pi = 3.142M;
 const int daysInAWeek = 7;
 Console.WriteLine("We have "+daysInAWeek+ " days in a week and the fixed value of pi in maths is " +pi);
+
+// SECTION 4 (USER Input)
+Console.Write("Enter Your Name: ");
+string name = Console.ReadLine();
+Console.Write("Enter Your Birth Year: ");
+int birthYear = int.Parse(Console.ReadLine());
+int age = 2026 - birthYear;
+
+Console.Write("Input a number: ");
+int firstNum = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Input another number: ");
+int secondNum = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine($"The user, {name} is currently {age} years of age ");
+Console.WriteLine($"The sum of the numbers are {firstNum + secondNum}\nTheir difference is {firstNum - secondNum}");
+
