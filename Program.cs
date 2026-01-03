@@ -17,5 +17,6 @@ and taday's date*/
 string studentName = "Khalilur-Rahman Abimbola";
 int studentAge = 19;
 int studentWeight = 165;
+studentAge = 20;
 bool isEnrolled = true;
 Console.WriteLine(studentName +" aged "+ studentAge +" weighs " +studentWeight +"kg is enrolled: "+ isEnrolled );
