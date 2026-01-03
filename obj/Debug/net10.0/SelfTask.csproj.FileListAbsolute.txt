@@ -12,3 +12,4 @@ C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\refint\S
 C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.pdb
 C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.genruntimeconfig.cache
 C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\ref\SelfTask.dll
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\SelfTask\obj\Debug\net10.0\SelfTask.sourcelink.json
